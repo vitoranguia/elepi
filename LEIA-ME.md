@@ -8,7 +8,7 @@ Este é um simples exemplo de um piano eletrônico com Arduino.
 
 Este pacote é compatível com [ShellCheck](https://github.com/koalaman/shellcheck).
 
-![Screencast](https://archive.org/download/vitoranguia-elepi_201910/vitoranguia-elepi_201910.thumbs/screencast_000001.jpg)(https://archive.org/download/vitoranguia-elepi_201910/screencast.ogv)
+[![Screencast](https://archive.org/download/vitoranguia-elepi_201910/vitoranguia-elepi_201910.thumbs/screencast_000001.jpg)](https://archive.org/download/vitoranguia-elepi_201910/screencast.ogv)
 
 [Veja mais fotos e videos](https://archive.org/details/vitoranguia-elepi_201910)
 
