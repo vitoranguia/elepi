@@ -16,7 +16,7 @@ This package is compatible with [ShellCheck](https://github.com/koalaman/shellch
 
 Build your project according to this image.
 
-![Screenshot Fritzing](uploads/46c035fce54587334d2b9b10b2f57bda/screenshotFritzing.jpg)
+![Screenshot Fritzing](wikis/uploads/46c035fce54587334d2b9b10b2f57bda/screenshotFritzing.jpg)
 
 See [building instructions](doc/README.md), get [Fritzing project](uploads/cb460651aaaffca00d06d549e5686ca0/elepi.fzz).
 
