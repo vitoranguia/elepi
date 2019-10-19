@@ -8,17 +8,17 @@ This is a simple example of an electronic piano with Arduino.
 
 This package is compatible with [ShellCheck](https://github.com/koalaman/shellcheck).
 
-[![Screencast](https://archive.org/download/vitoranguia-elepi_201910/vitoranguia-elepi_201910.thumbs/screencast_000001.jpg)](https://archive.org/download/vitoranguia-elepi_201910/screencast.ogv)
+![Screencast](uploads/12ae7ba87c1a28596087380676b12382/screencast.mp4)
 
-[See more pictures and videos](https://archive.org/details/vitoranguia-elepi_201910)
+[See more pictures and videos](wikis)
 
 ## Building
 
 Build your project according to this image.
 
-![Screenshot Fritzing](https://archive.org/download/vitoranguia-elepi_201910/screenshotFritzing.jpg)
+![Screenshot Fritzing](uploads/46c035fce54587334d2b9b10b2f57bda/screenshotFritzing.jpg)
 
-See [building instructions](doc/README.md), get [Fritzing project](doc/elepi.fzz).
+See [building instructions](doc/README.md), get [Fritzing project](uploads/cb460651aaaffca00d06d549e5686ca0/elepi.fzz).
 
 ## Contributing
 
