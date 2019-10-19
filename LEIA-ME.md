@@ -8,17 +8,17 @@ Este é um simples exemplo de um piano eletrônico com Arduino.
 
 Este pacote é compatível com [ShellCheck](https://github.com/koalaman/shellcheck).
 
-![Screencast](uploads/12ae7ba87c1a28596087380676b12382/screencast.mp4)
+![Screencast](https://gitlab.com/vitoranguia/elepi/wikis/uploads/12ae7ba87c1a28596087380676b12382/screencast.mp4)
 
-[Veja mais fotos e videos](wikis)
+[Veja mais fotos e videos](https://gitlab.com/vitoranguia/elepi/wikis/wikis)
 
 ## Construção
 
 Monte seu projeto de acordo com esta imagem.
 
-![Screenshot Fritzing](uploads/46c035fce54587334d2b9b10b2f57bda/screenshotFritzing.jpg)
+![Screenshot Fritzing](https://gitlab.com/vitoranguia/elepi/wikis/uploads/46c035fce54587334d2b9b10b2f57bda/screenshotFritzing.jpg)
 
-Veja [instruções para construção](doc/LEIA-ME.md), obtenha o [projeto Fritzing](uploads/cb460651aaaffca00d06d549e5686ca0/elepi.fzz).
+Veja [instruções para construção](doc/LEIA-ME.md), obtenha o [projeto Fritzing](https://gitlab.com/vitoranguia/elepi/wikis/uploads/cb460651aaaffca00d06d549e5686ca0/elepi.fzz).
 
 ## Contribuindo
 
