@@ -26,4 +26,4 @@ You also need to `Arduino Uno`, `Breadboard` `Dupont Jumper` and `USB Cable`.
 
 ## Tools
 
-- PVC glue
+- Glue
