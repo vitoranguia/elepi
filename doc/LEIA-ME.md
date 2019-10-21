@@ -15,9 +15,9 @@ Você precisa dos seguintes softwares no seu computador:
 Você precisa dos seguintes hardwares e componentes:
 
 - Campainha
-- 8 Buttons
+- 8 Botões
 - Resistor 1kΩ 1/4W
-- 8 Resistors 10kΩ 1/4W
+- 8 Resistores 10kΩ 1/4W
 
 Você precisa também de `Arduino Uno`, `Breadboard`, `Dupont Jumper` e `Cabo USB`.
 

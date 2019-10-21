@@ -13,9 +13,9 @@ You need to have the following software on your computer:
 You need to have the following hardware and components:
 
 - Buzzer
-- 8 Botões
+- 8 Buttons
 - Resistor 1kΩ 1/4W
-- 8 Resistores 10kΩ 1/4W
+- 8 Resistors 10kΩ 1/4W
 
 You also need to `Arduino Uno`, `Breadboard` `Dupont Jumper` and `USB Cable`.
 
