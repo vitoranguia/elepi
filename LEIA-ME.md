@@ -18,7 +18,7 @@ Monte seu projeto de acordo com esta imagem.
 
 ![Screenshot Fritzing](https://gitlab.com/vitoranguia/elepi/wikis/uploads/46c035fce54587334d2b9b10b2f57bda/screenshotFritzing.jpg)
 
-Veja [instruções para construção](doc/LEIA-ME.md), obtenha o [projeto Fritzing](elepi/elepi.fzz).
+Veja [instruções para construção](doc/LEIA-ME.md), obtenha o [projeto Fritzing](elepi.fzz).
 
 ## Contribuindo
 

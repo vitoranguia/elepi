@@ -1,4 +1,4 @@
-SRC = $(shell pwd)/elepi/elepi.ino
+SRC = $(shell pwd)/elepi.ino
 LIB_A = /usr/share/arduino/libraries
 LIB_B = $(HOME)/sketchbook/libraries
 
@@ -6,7 +6,7 @@ all: upload
 
 .PHONY: check-style
 check-style:
-	cpplint --extensions=ino elepi/*
+	cpplint --extensions=ino elepi.ino
 	@echo Check style completed!
 
 .PHONY: tags

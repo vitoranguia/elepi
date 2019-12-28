@@ -18,7 +18,7 @@ Build your project according to this image.
 
 ![Screenshot Fritzing](https://gitlab.com/vitoranguia/elepi/wikis/uploads/46c035fce54587334d2b9b10b2f57bda/screenshotFritzing.jpg)
 
-See [building instructions](doc/README.md), get [Fritzing project](elepi/elepi.fzz).
+See [building instructions](doc/README.md), get [Fritzing project](elepi.fzz).
 
 ## Contributing
 
